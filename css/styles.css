@@ -163,7 +163,7 @@ p{
 }
 
 @media (max-width:1028px) {
-  #title{
+  #title .title-content{
     text-align: center;
   }
   .title-image{
